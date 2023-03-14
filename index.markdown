@@ -4,4 +4,7 @@
 
 layout: home
 ---
+
+{% include welcome-to-jekyll.md %}
+
 ![Alt Text](/assets/ROBBERY.jpg)
