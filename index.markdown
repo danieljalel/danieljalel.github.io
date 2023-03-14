@@ -5,4 +5,6 @@
 layout: home
 ---
 
+The figure below shows counts of robbery crimes during each hour of the day
+
 ![Alt Text](/assets/ROBBERY.jpg)
