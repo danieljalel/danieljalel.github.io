@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+![Alt Text](/_site/assets/ROBBERY.jpg)
+
