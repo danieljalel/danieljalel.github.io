@@ -6,6 +6,4 @@ date:   2023-03-12 19:17:20 +0100
 ---
 This web page is made by Daniel Jalel. It features graphs and visualizations of data from course 02806. 
 
-![Alt Text](/_site/assets/ROBBERY.jpg)
-
 DANIEL JALEL, 2023
