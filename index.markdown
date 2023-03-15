@@ -11,4 +11,4 @@ The figure below shows counts of robbery crimes during each hour of the day
 
 The figure below shows an iteractive crime counts by hour and category plot
 
-<iframe src="/assets/bokeh.html" width="1400" height="500"></iframe>
+<iframe src="/assets/bokeh.html" width="1300" height="450"></iframe>
